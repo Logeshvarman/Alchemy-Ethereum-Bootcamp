@@ -7,7 +7,7 @@ function Sidebar() {
     <>
       <Container maxWidth={'254'} maxHeight={'1080'} backgroundColor={'blue'}>
         <Box>
-          <Title>Wallet Tools</Title>
+          <Title>Wallet KiTzs</Title>
           <Container>
             <h2>Wallet</h2>
           </Container>
