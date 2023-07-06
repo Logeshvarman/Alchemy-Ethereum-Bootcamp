@@ -7,6 +7,6 @@ contract Contract {
 
     constructor() {
         msg1 = "Hello World";
-        msg2 = "Daniel Marques - Blockchain Developer";
+        msg2 = "Logesh Varman - Blockchain Developer";
     }
 }
